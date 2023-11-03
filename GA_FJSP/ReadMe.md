@@ -42,7 +42,7 @@ Our proposed methods achieve the following performances on an 8*8 example and th
 
 ### **8*8 example**:
 
-- Scheduling Gantt Chart
+- Scheduling Gantt chart
 <figure class="half">
     <img src="./figs/Gantt_8_8.png" width="100%"/>
 </figure>
@@ -54,7 +54,7 @@ Our proposed methods achieve the following performances on an 8*8 example and th
 
 ### **MK01 example**:
 
-- Scheduling Gantt Chart
+- Scheduling Gantt chart
 <figure class="half">
     <img src="./figs/Gantt_MK01.png" width="100%"/>
 </figure>

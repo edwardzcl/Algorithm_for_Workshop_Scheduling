@@ -41,7 +41,7 @@ Our proposed methods achieve the following performances on an example with diffe
 
 ### **Test example**:
 
-- Scheduling Gantt Chart
+- Scheduling Gantt chart
 <figure class="half">
     <img src="./figs/Gantt.png" width="100%"/>
 </figure>
